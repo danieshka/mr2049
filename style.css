@@ -1,0 +1,78 @@
+body {
+    padding: 0 30px;
+    font-size: 20px;
+    line-height: normal;
+    font-family: "Arial", sans-serif;
+    color: #ffffff;
+    background: url('../img/circle-blues.png');
+}
+
+footer {
+    font-size: 200%;
+    font-weight: 700;
+    margin-top: 100px;
+    padding-top: 0px;
+    color: #fc0707;
+    border-top: 1px solid #aaaaaa;
+    text-align: center;
+}
+
+h2 {
+    font-size: 120%;
+}
+
+a[href] {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+dt {
+    font-size: 110%;
+    font-weight: 600;
+}
+
+dd {
+    padding-right: 40%;
+}
+
+article {
+    padding-right: 40%;
+}
+
+.page-title {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+}
+
+.avatar-container {
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.blog-navigation {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: rgba(68, 112, 196, 0);
+    color: #ffffff;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.mem {
+    padding-top: 500px;
+}
+
+.avatar-l {
+    border-radius: 50%;
+}
+
+.avatar-r {
+    border-radius: 50%;
+}
+  
+  
